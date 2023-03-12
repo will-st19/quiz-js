@@ -1,0 +1,42 @@
+[
+    {
+        "operacao": "6 * 5",
+        "resposta": 30
+    },
+    {
+        "operacao": "3 + 5",
+        "resposta": 8
+    },
+    {
+        "operacao": "3 * 8",
+        "resposta": 24
+    },
+    {
+        "operacao": "9 / 9",
+        "resposta": 1
+    },
+    {
+        "operacao": "5 - 3",
+        "resposta": 2
+    },
+    {
+        "operacao": "8 / 2",
+        "resposta": 4
+    },
+    {
+        "operacao": "5 + 6",
+        "resposta": 11
+    },
+    {
+        "operacao": "0 / 4",
+        "resposta": 0
+    },
+    {
+        "operacao": "5 - 7",
+        "resposta": -2
+    },
+    {
+        "operacao": "8 * 7",
+        "resposta": 56
+    }
+]

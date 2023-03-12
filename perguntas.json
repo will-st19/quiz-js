@@ -1,0 +1,18 @@
+[
+    {
+        "operacao": "2 + 2",
+        "resposta": 4
+    },
+    {
+        "operacao": "10 - 5",
+        "resposta": 5
+    },
+    {
+        "operacao": "3 * 4",
+        "resposta": 12
+    },
+    {
+        "operacao": "15 / 3",
+        "resposta": 5
+    }
+]
